@@ -23,7 +23,7 @@ Get 6 random fun facts daily across various topics using DeepSeek's AI!
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Configure API key:
@@ -36,7 +36,7 @@ Get 6 random fun facts daily across various topics using DeepSeek's AI!
 ## Usage
 Run the generator:
 ```bash
-python fact_generator.py
+python3 fact_generator.py
 ```
 
 Sample output:
